@@ -14,7 +14,7 @@ VideoCollab is a web-based real-time video conferencing solution built using Web
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/VideoCollab.git
+    git clone https://github.com/JASH7155/VideoCollab-Real-Time-Video-Conferencing-Platform.git
     ```
 2. **Navigate to the project directory:**
     ```bash
